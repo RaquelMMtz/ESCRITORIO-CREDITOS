@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.Form1.resources
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.Properties.Resources.resources
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\bin\Debug\CREDITOS.exe.config
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\bin\Debug\CREDITOS.exe
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\bin\Debug\CREDITOS.pdb
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.exe
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.pdb
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.RegisterForm.resources
+C:\Users\USER\source\repos\CREDITOS\CREDITOS\obj\Debug\CREDITOS.MainMenuForm.resources
